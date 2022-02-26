@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments and reasons to prove the inconvenience &amp; unlawfulness of taking the new engagement: modestly propounded to all persons concerned.</title>
+            <author>Aucher, John, 1619-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75787</idno>
+            <idno type="STC">Wing A4190A</idno>
+            <idno type="STC">Thomason E593_7</idno>
+            <idno type="STC">ESTC R11779</idno>
+            <idno type="EEBO-CITATION">99859128</idno>
+            <idno type="PROQUEST">99859128</idno>
+            <idno type="VID">165537</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75787)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165537)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E593[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments and reasons to prove the inconvenience &amp; unlawfulness of taking the new engagement: modestly propounded to all persons concerned.</title>
+                  <author>Aucher, John, 1619-1701.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Aucher.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Loyalty oaths --  Great Britain --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165537:1" rendition="simple:additions"/>
+            <head>ARGUMENTS AND REASONS To prove the Inconvenience &amp; Vnlawfulneſs Of Taking the New Engagement: Modeſtly propounded to all Per<g ref="char:EOLhyphen"/>ſons Concerned.</head>
+            <epigraph>
+               <q>The words of the Engagement are theſe: I <hi>Do declare and promiſe that I will be true and faithful to the Common-wealth of</hi> England, <hi>as the ſame is now eſtabliſhed without King, or Houſe of Lords.</hi>
+               </q>
+            </epigraph>
+            <p>THe known and (by words and actions) declared ſence of the Impoſers of this <hi>Engagement,</hi> is, (I conceive)</p>
+            <p>That they that take this <hi>Engagement</hi> ſhould oblige themſelves not onely to <hi>preſerve the remaining Rights and Priviledges of the
+<pb n="2" facs="tcp:165537:2"/>Common-wealth,</hi> (as ſome fancy,) but alſo <hi>to do nothing directly or indirectly againſt the preſent Government;</hi> yea, <hi>to be true and faithful to it.</hi> Which words, being frequently the words of the Subjects Oaths to their Kings and Queens, were intended to ob<g ref="char:EOLhyphen"/>lige the Subjects to their utmoſt to oppoſe all the Enemies of their Perſons and Government, and do likewiſe now binde us to oppoſe the King and Houſe of Lords, yea, the Majority of the Houſe of Commons (which legally, in caſe of diviſion, are the whole Houſe) and not to admit their <hi>Government</hi> again, no though they ſhould more really and manifeſtly, in our apprehenſions, promote the ends of our Solemn <hi>Covenants,</hi> and the publique good of this King<g ref="char:EOLhyphen"/>dom, then the <hi>preſent Powers</hi> do, or ſhall do.</p>
+            <q>Which being premiſed, the Inconvenience, Uncertainty, In<g ref="char:EOLhyphen"/>conſiſtency, Unſatisfactorineſs, yea, Unlawfulneſs of Ta<g ref="char:EOLhyphen"/>king the ſaid <hi>Engagement</hi> ſeems evident.</q>
+            <p n="1">1. The Scripture commands obedience, and forbids reſiſtance, to lawful Magiſtrates, <hi>Rom.</hi> 13.1, 2. and chargeth us <hi>to render to all their dues, honour to whom honour, tribute to whom tribute is due,</hi> Verſ. 7. I may not do wrong to a publique or private per<g ref="char:EOLhyphen"/>ſon, though I never ſwore or promiſed to do him right: now both the Laws and our own Conſciences tell us, the <hi>King, Lords, and Commons</hi> are the Legal Governors of this Kingdom, and that there are <hi>dues</hi> belong to them, (though we had never ſworn or pro<g ref="char:EOLhyphen"/>miſed any thing to them,) of which they, and the Kingdom in them, and in the abolition of her <hi>fundamental Government,</hi> are injuriouſly deprived; and that this <hi>Engagement</hi> tends to the eſta<g ref="char:EOLhyphen"/>bliſhment and continuance of that injuſtice, and to the reſiſtance of them, when they, or any of them, ſhall require their Right.</p>
+            <p n="2">2. It is a <hi>medling</hi> and <hi>engaging</hi> with and for <hi>thoſe that are gi<g ref="char:EOLhyphen"/>ven to change,</hi> contrary to <hi>Prov.</hi> 24.21. and to the Duty of good Subjects, and to the Dictate of Reaſon, which allows us not, for ſome ſuppoſed or real miſcarriages of a King, and ſome Parliament men (which are the faults of Governors, not of the Government) to abjure or engage againſt <hi>regal Government,</hi> (which the very <hi>Jeſuites,</hi> as <hi>Azorius, Courzenius,</hi> and others, though no great friends to <hi>Monarchy,</hi> have acknowledged to be the beſt <hi>Govern<g ref="char:EOLhyphen"/>ment,</hi> in the opinion of the wiſeſt <hi>Statiſts</hi>) and againſt former <hi>Parliamentary Government,</hi> under which this Kingdom hath ſo long and happily flouriſhed.</p>
+            <pb n="3" facs="tcp:165537:2"/>
+            <p n="3">3. It is a Juſtification, an abetting, or owning (at leaſt in part) of all thoſe irregular and horrid acts, which have been committed for the bringing about of this change; as ſuppoſe <hi>Ahab</hi> ſhould have required <hi>Eliah</hi> to have been <hi>true and faithful to him</hi> in the poſſeſſion of <hi>Naboths</hi> Vineyard, againſt his Heirs and Succeſſors, could <hi>Eliah</hi> have done it without juſtifying, in ſome meaſure, the hypocritical, illegal, oppreſſive, bloody means uſed by <hi>Ahab</hi> and <hi>Jezabel</hi> for procuring of the ſaid Vineyard? and ſo <hi>he had been partaker of other mens ſins,</hi> and had <hi>fellowſhip with the unfruit<g ref="char:EOLhyphen"/>ful works of darkneſs,</hi> contrary to 1 <hi>Tim.</hi> 5.22. <hi>Eph.</hi> 5.11.</p>
+            <p n="4">4. It is uncertain, Firſt, What is meant by <hi>Common-wealth of England;</hi> for if by thoſe words <hi>Monarchical and Ariſtocratical Government</hi> be excluded, and the <hi>Supreme Power and Authority</hi> placed in the Community, and ſuch as they truſt with it, there is not now <hi>de jure,</hi> nor <hi>de facto,</hi> ſuch a <hi>Common-wealth</hi> of <hi>England.</hi> For a ſmall party of the <hi>Parliament</hi> and <hi>People</hi> have thruſt out the <hi>Lawful Rulers,</hi> and have aſſumed of themſelves, and to themſelves, the <hi>Supreme Authority of this Nation,</hi> without the <hi>Election, Ap<g ref="char:EOLhyphen"/>pointment, Approbation,</hi> or <hi>Conſent</hi> of the <hi>People,</hi> yea, againſt <hi>their Conſents;</hi> and do only palliate their Uſurpation and Tyranny (which is a ruling over People againſt their wills) under the name of the <hi>Common-wealth.</hi> Secondly, It is uncertain, in what ſence, or on what foundation, the <hi>preſent Government</hi> is ſaid to be eſta<g ref="char:EOLhyphen"/>bliſhed; Seeing there was (ſaith Mr <hi>Broughton</hi> in his conſent of <hi>Scripture</hi>) a kinde of <hi>Interregnum</hi> in <hi>Judah</hi> for eleven years, be<g ref="char:EOLhyphen"/>tween the putting to death of <hi>Amaziah,</hi> and the reception of <hi>
+                  <g ref="char:V">Ʋ</g>z<g ref="char:EOLhyphen"/>ziah,</hi> and an Uſurpation in the time of <hi>Athaliah</hi> for ſix years, yet neither the one nor the other (much leſs the <hi>preſent Government</hi> of this Kingdom, which is ſcarce one year old) could be ſaid to be <hi>eſtabliſhed</hi> upon any good Foundation, Divine or Humane, and therefore upon the appearance of <hi>their lawful King</hi> they vaniſhed away.</p>
+            <p n="5">5. This <hi>Engagement</hi> (I conceive) is inconſiſtent with it ſelf: For firſt, <hi>A man may be true and faithful to the Common-wealth of England,</hi> and yet endeavor that it may be otherwiſe better <hi>eſta<g ref="char:EOLhyphen"/>bliſhed,</hi> poſſibly without a <hi>Councel of State,</hi> and with a fuller and freer Houſe of Commons, or in more faithful perſons then thoſe in which it is ſaid to be <hi>now eſtabliſhed,</hi> which poſſibly may be a ſelf-advancing, ſelf-enriching <hi>party,</hi> over-awing and oppreſſing
+<pb n="4" facs="tcp:165537:3"/>
+               <hi>the Common-wealth.</hi> Secondly, <hi>A man may be faithful to the Common-wealth of England</hi> (in a good ſound ſence) and yet en<g ref="char:EOLhyphen"/>devor to recover the Fundamental Laws and Government thereof by King, Lords, and Commons, as we were faithful thereunto, when, in the former <hi>Oaths, Proteſtations,</hi> and <hi>Covenants,</hi> we promiſed and vowed the preſervation and maintenance thereof.</p>
+            <p n="6">6. It is againſt the known ſence of the Honorable Houſes of the <hi>Parliament</hi> of <hi>England</hi> (the moſt Legal <hi>Authoritative,</hi> and by all true Engliſhmen moſt highly eſteemed Suffrage within this Nation) which did very often, and with much deteſtation, declare and vote againſt the Alteration (much more the Abrogation) of the <hi>Fundamental Government</hi> of the Kingdom; particularly one Declaration of the Commons, <hi>Apr.</hi> 17. 1646. was for the ſatiſ<g ref="char:EOLhyphen"/>faction of the People (who then begun to ſuſpect ſuch dealings) enjoyned to be publiſhed, ſet up and fixed in every Pariſh-Church, and ſo would the ſaid Houſes (as may be preſumed) ſtill declare and vote, if they were not by illegal violence reſtrained from convening with freedom and ſafety.</p>
+            <p n="7">7. It alſo againſt the common and general Vote of the People of this Nation collectively taken (without which it is neither conve<g ref="char:EOLhyphen"/>nient nor lawful for one or a few to engage in the alteration of the publique Government, eſpecially for thoſe which aſſert, <hi>That the People are the Fountain of all Juſt Power,</hi>) as may ſufficiently appear by their unwillingneſs to engage therein, (though non-en<g ref="char:EOLhyphen"/>gagers be by the late Act denyed that protection of the Laws, that Blaſphemers, and vileſt of engaging perſons, may enjoy,) and would more manifeſtly appear, if thoſe that ſtand for the <hi>Engage<g ref="char:EOLhyphen"/>ment</hi> would lay down their over-awing and menacing Arms, by which (as alſo by promotions and rewards) they prevail over facile and ſervile ſpirits, and ſuffer the Nation (as in duty they ought) to vote and act freely, without danger or damage, according to their own ſence, as well againſt it as for it.</p>
+            <p n="8">8. It is alſo apparently contrary to our former Oaths, Proteſta<g ref="char:EOLhyphen"/>tion, Solemn League and Covenant, according to <hi>the common ſence and underſtanding of the words;</hi> the ſence declared by the Impoſers, and received by the Takers, agreeable to the occaſions and ends of the ſaid Covenants: For this Engagement (as was at firſt premiſed and declared) is againſt our <hi>bearing faith and true allegiance to the Kings Majeſty, his Heirs and Succeſſors, and defending them
+<pb n="5" facs="tcp:165537:3"/>againſt all Conspiracies and Attempts whatſoever, which ſhall be made againſt his, and their Crown and Dignity,</hi> and againſt <hi>defend<g ref="char:EOLhyphen"/>ing the Juriſdictions, Priviledges, Preeminences, and Authorities united and annexed to the Imperial Crown of this Realm;</hi> it is not <hi>for the honor and happineſs of the Kings Posterity,</hi> nor <hi>for the Power and Priviledges of Parliament,</hi> ſeeing it excludeth both the perſonal and politick capacity of the King, and preſerveth only one of the Houſes, and not one neither, the far greater part being excluded; nor is it for <hi>the Rights and Liberties of the People,</hi> for it keeps out ſome Repreſentatives of moſt Counties, and all of ſome Counties, and extinguiſheth the Rights of the Lords, which are the nobler parts of the People; it tends to <hi>divide</hi> perpetually <hi>between the Prince and People,</hi> the union of whom was ſo much deſired and endeavored by the Parliament, when they were (con<g ref="char:EOLhyphen"/>feſſedly) moſt free from corruption, <hi>and to make factions and par<g ref="char:EOLhyphen"/>ties amongst the People,</hi> while they ſhall be diſtinguiſhed by the names of Engagers, and non-Engagers; and in all probability to <hi>divide the Kingdoms one from another, contrary to the Solemn League and Covenant;</hi> and theſe Covenants do not only bind us to <hi>preſerve</hi> this Government, and their Power and Priviledges, and the Subjects Rights and Liberties from violation (as ſome now expound them) but according to our abilities and opportunities to endeavor to <hi>reſtore</hi> and <hi>recover</hi> them when violated or taken a<g ref="char:EOLhyphen"/>way, as they were in a great meaſure when we took the Proteſta<g ref="char:EOLhyphen"/>tion and Covenant, and therefore in that caſe we were bound to endeavor to <hi>bring Delinquents</hi> in that kind <hi>to condign puniſhment;</hi> nor doth the Obligation of the ſaid Oaths ceaſe, becauſe <hi>the King and his Heirs are wholy annihilated,</hi> (as <hi>T. B.</hi> fancies,) for though the King be dead, his Heirs are not annihilated (there being ſo ma<g ref="char:EOLhyphen"/>ny of his, and his Siſters ſeed) no more, no not ſo much as the Royal Seed was in the forementioned <hi>Interregnum</hi> of <hi>Judah,</hi> or the time of <hi>Athaliah</hi>'s Uſurpation, who called it <hi>Treaſon, Treaſon,</hi> to ſet up <hi>Joaſh</hi> in the Throne. His other pretences, That <hi>the common Conſent of the People, by which they were Kings, hath dethroned them,</hi> and <hi>that the Covenant contends only for that Government which is ſuitable to the Law of God, and Reaſon, with both which this is exactly correspondent.</hi> The inſufficiency of them is ſuffi<g ref="char:EOLhyphen"/>ciently diſcovered partly in the foregoing Treatiſe, and partly by the Author of the Book called, <hi>An Exercitation concerning uſurp<g ref="char:EOLhyphen"/>ed
+<pb n="6" facs="tcp:165537:4"/>Powers:</hi> And the ſaid <hi>T. B.</hi> his conceſſion, That <hi>this Engage<g ref="char:EOLhyphen"/>ment is contrary to Oaths and Engagements of an higher nature,</hi> ſtands as a blur upon it, unwiped off. Finally nothing can be more againſt the <hi>Power and Priviledges of Parliament,</hi> and lawful <hi>Authority,</hi> and <hi>againſt the Rights and Liberties of the Subject,</hi> then to engage and ſwear to them as a Parliament, and as the Su<g ref="char:EOLhyphen"/>pream Authority of <hi>England,</hi> that are not ſo. The inconſiſtency of this Engagement with the former Oaths and Covenants, ſeems to be the reaſon why the Grand Engagers do (as much as in them lies) repeal, annul, make voyd, or by ſome expoſition (newly found out to ſerve a turn) evade or elude them.</p>
+            <p n="9">9. This Engagement is alſo inconſiſtent with our firſt Parlia<g ref="char:EOLhyphen"/>mentary Principles, in defence whereof ſo much blood and treaſure hath been ſpilt, for it is real Malignancy, and ſo declared by Parlia<g ref="char:EOLhyphen"/>ment, <hi>to ſubvert the Fundamental Laws and Government of the Kingdom, to violate the Priviledges of Parliament, and the an<g ref="char:EOLhyphen"/>cient Courſe of Parliamentary Proceedings;</hi> and for the doing of theſe things, yea, for but endeavoring to do theſe things, <hi>Tho: Earl of Strafford,</hi> and <hi>William</hi> late <hi>Arch-Biſhop of Canterbury,</hi> were put to death; yea the violation of the Priviledges of Parlia<g ref="char:EOLhyphen"/>ment, and ſome illegal Innovations and Oppreſſions, and the late Kings not bringing, or not ſuffering the offenders to be brought to condign puniſhment, was the ground of the late War, not againſt the King (as we were then told and believed) but for <hi>the removing of the wicked from before the King, that his throne might be eſta<g ref="char:EOLhyphen"/>bliſhed:</hi> And though we fought againſt <hi>the Forces raiſed by the King,</hi> and amongſt which ſometimes he in perſon was, yet it was only to reſcue him from amongſt them, that he might return to his Parliament, as our allegiance bound us. The fighting againſt the E: of <hi>Leiceſters</hi> Forces, where King <hi>Henry</hi> the third was in perſon, and carryed about for the countenance of his actions, and the re<g ref="char:EOLhyphen"/>ſcuing of him, though he was unawares wounded in the reſcue, was by the Parliament judged to be legal and faithful ſervice, and yet we always accounted it Treaſon, hateful to God, and all good men, to kill or wound the King intentionally or purpoſely, to diſ-inhe<g ref="char:EOLhyphen"/>rit the Royal Progeny, to alter the fundamental Government of the Kingdom. Now if we did conſcientiouſly and not factiouſly oppoſe the groſs evils of Oppreſſion, Uſurpation, Innovations, and Arbitrary Government in the late King, or his Agents, we cannot
+<pb n="7" facs="tcp:165537:4"/>engage to any Powers whatſoever that are guilty of greater Uſur<g ref="char:EOLhyphen"/>pation, and equalize (if not exceed) them in the other enormities, without evidencing of damnable Hypocriſie or Apoſtacy, and in a ſort bringing upon our own heads the guilt of all the blood that hath been ſhed in this Kingdom.</p>
+            <p n="10">10. The taking of this Engagement doth not at all ſecure the preſent Government (which is pretended to be the end of it,) for if men, for preſervation of their offices, livelihoods, and priviledges, will break their former ſolemn and ſacred Oaths and Covenants, and break all the bonds of obedience to lawful Magiſtrates antece<g ref="char:EOLhyphen"/>dent to, and only confirmed, not created by the ſaid Oaths and Co<g ref="char:EOLhyphen"/>venants, by taking this Engagement, they will (doubtleſs) make no conſcience to break this new Engagement by renewing the old Covenants, or taking others, or acting contrary to it when occaſion is offered.</p>
+            <p n="11">11. This Engagement (as is feared) may be a means not only to hinder the bringing of ſome Delinquents to condign puniſhment, and to keep the Purſe and Power of the Kingdom in thoſe hands in which it now is, but alſo to hinder all poſſibility of peace and ſettle<g ref="char:EOLhyphen"/>ment upon a right Baſis, to neceſſitate the keeping up and augment<g ref="char:EOLhyphen"/>ing the Army, and the continuance or encreaſe (for the maintenance thereof) of the Taxes and Impoſitions on this already ſore impo<g ref="char:EOLhyphen"/>veriſh'd Nation, to betray the moſt conſciencious friends of the Parliament which dare not engage, to ruine in their Eſtates, Rights, and Liberties, which are their birth-right, yea to bring the Proteſt<g ref="char:EOLhyphen"/>ant Religion, and in it the moſt glorious Name of the Lord our God and the Engliſh Nation into reproach, and to make our ſavor to ſtink in neighbor Nations, that they may never truſt Parliament or People of <hi>England</hi> any more, whatſoever Declarations, Promiſes, Proteſta<g ref="char:EOLhyphen"/>tions, Oaths, or Covenants they make to beget credence, which cannot be more ſacred and ſolemn then thoſe which are at once knapt in pieces by this Engagement,</p>
+            <p n="12">12. Though this Engagement is intended to be obligatory, and therefore it is called <hi>an Engagement.</hi> 2. A Declaration, <hi>(I de<g ref="char:EOLhyphen"/>clare.)</hi> 3. A Promiſe, (I <hi>promiſe,</hi>) and <hi>ſubſcription</hi> is required thereunto, and ſome are called to ſwear to it, with intent they ſhould be ſtrongly obliged by it, yet in deed and truth it doth not oblige in <hi>foro Dei</hi> or <hi>Conſcientiae</hi> to the performance of it. Firſt, Becauſe the matter of it is injurious and ſinful, as if I promiſe or
+<pb n="8" facs="tcp:165537:5"/>ſwear that I will not render to lawful Magiſtrates, or private men, that which is their right from me, but will transfer it to others to whom it is not legally due, this is an injurious and ſinful Oath and Promiſe, and ſo is voyd, for <hi>rei illicitae nulla est obligatio, Jura<g ref="char:EOLhyphen"/>mentum non eſt vinculum iniquitatis,</hi> what is unlawful to be done, is unlawful to be ſworn or promiſed.</p>
+            <p>Secondly, Latter <hi>Engagements, Declarations, Promiſes,</hi> yea (ſup<g ref="char:EOLhyphen"/>poſe) the moſt ſolemn <hi>Oaths,</hi> contrary to former lawful <hi>Oaths</hi> and <hi>Covenants,</hi> are <hi>ipſo facto</hi> voyd and non-obliging, <hi>Iuramentum poſterius non tollit obligationem prioris;</hi> it is with contrary Oaths and Promiſes as with contrary Bargains and Sales <hi>(caeteris paribus)</hi> the firſt is good in Law, and the latter voyd; not as it is with con<g ref="char:EOLhyphen"/>trary Wills and Teſtaments, the laſt doth ſtand: and although ſun<g ref="char:EOLhyphen"/>dry of laxe principles take this <hi>Engagement</hi> the more willingly, becauſe they conceive it doth not oblige them, yea, with an intenti<g ref="char:EOLhyphen"/>on not to be bound by it, as they themſelves profeſs; yet religious and godly men will make Conſcience of what they engage in, de<g ref="char:EOLhyphen"/>clare for, promiſe, ſubſcribe, (much more) ſwear unto, and dare not take Gods name in vain, abuſe his Ordinance, delude God or men, by ſeeming to engage in, or ſwear that in which they do not really engage, or which they know before-hand will not oblige; knowing that it is a <hi>tranſgreſſion,</hi> yea <hi>perjury,</hi> to take ſuch a ſinful and contrary <hi>Engagement,</hi> though the taking of it, by reaſon of its ſinfulneſs and contrariety, be no obligation to the keeping of it; and though this do not tye the Conſcience of the Taker, it will trouble it; though it do not binde, it will burthen it; <hi>qui vadit plane, vadit ſane.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
